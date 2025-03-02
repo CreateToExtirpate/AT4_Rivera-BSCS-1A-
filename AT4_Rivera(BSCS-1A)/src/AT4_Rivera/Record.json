@@ -1,0 +1,39 @@
+{
+    "students": [{
+            "fname": "student1",
+            "lname": "1student",
+            "grade": "Grade 1",
+            "section": "Section 1",
+            "id": "001"
+        }, {
+            "fname": "student2",
+            "lname": "1student",
+            "grade": "Grade 2",
+            "section": "Section 2",
+            "id": "002"
+        }, {
+            "fname": "student3",
+            "lname": "3student",
+            "grade": "Grade 3",
+            "section": "Section 3",
+            "id": "003"
+        }, {
+            "fname": "student4",
+            "lname": "4student",
+            "grade": "Grade 4",
+            "section": "Section 2",
+            "id": "004"
+        }, {
+            "fname": "student5",
+            "lname": "5student",
+            "grade": "Grade 5",
+            "section": "Section 1",
+            "id": "005"
+        }, {
+            "fname": "student6",
+            "lname": "6student",
+            "grade": "Grade 6",
+            "section": "Section 2",
+            "id": "006"
+        }]
+}
